@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cosmicfemmestudio.github.io/mystic-codex/sitemap.xml
